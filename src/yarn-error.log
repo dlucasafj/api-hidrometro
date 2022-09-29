@@ -1,0 +1,34 @@
+Arguments: 
+  /home/daniel/.nvm/versions/node/v16.8.0/bin/node /home/daniel/.yarn/bin/yarn.js add sqlite3
+
+PATH: 
+  /home/daniel/.yarn/bin:/home/daniel/.config/yarn/global/node_modules/.bin:/home/daniel/.sdkman/candidates/gradle/current/bin:/home/daniel/.yarn/bin:/home/daniel/.config/yarn/global/node_modules/.bin:/home/daniel/.nvm/versions/node/v16.8.0/bin:/home/daniel/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+
+Yarn version: 
+  1.22.17
+
+Node version: 
+  16.8.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: getaddrinfo EAI_AGAIN registry.yarnpkg.com
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)
+
+npm manifest: 
+  {
+    "name": "PBL-Conectividade-P1",
+    "version": "1.0.0",
+    "description": "Problema 1 do PBL de conectividade 2022.2",
+    "main": "server.js",
+    "author": "Daniel Lucas",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

@@ -1,0 +1,12 @@
+{
+  "name": "PBL-Conectividade-P1",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Problema 1 do PBL de conectividade 2022.2",
+  "main": "server.js",
+  "author": "Daniel Lucas",
+  "license": "MIT",
+  "dependencies": {
+    "sqlite3": "^5.1.1"
+  }
+}
